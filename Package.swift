@@ -12,7 +12,7 @@ let package = Package(
             targets: ["GridView"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/nerdsupremacist/VariadicViewBuilder.git", .branch("master")),
+        .package(url: "https://github.com/nerdsupremacist/VariadicViewBuilder.git", from: "0.1.0"),
     ],
     targets: [
         .target(
