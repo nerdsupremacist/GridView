@@ -34,6 +34,8 @@ struct ContentView: View {
 }
 ```
 
+![](grid.png)
+
 Well all those views are then magically added to the View. Similarly to how HStack works. And that's the point. GridView is supposed to feel like it was added by Apple.
 
 ## Installation
