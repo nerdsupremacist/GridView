@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "VariadicViewBuilder",
+        "repositoryURL": "https://github.com/nerdsupremacist/VariadicViewBuilder.git",
+        "state": {
+          "branch": "master",
+          "revision": "d7db3d1f7960567e7cef50b6598b487b343b841a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
